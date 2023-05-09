@@ -1,6 +1,6 @@
 [![PyPI - Python Version](https://img.shields.io/badge/python-3.8-blue)](https://www.python.org/downloads/release/python-3813/)
 [![license](https://img.shields.io/badge/license-CC%20BY%204.0-brightgreen)](https://creativecommons.org/licenses/by/4.0/)
-[![open issues](https://isitmaintained.com/badge/open/RPetitpierre/SuperMapRealigner.svg)](https://github.com/RPetitpierre/SuperMapRealigner/issues)
+[![open issues](https://isitmaintained.com/badge/open/BnF-jadis/SuperMapRealigner.svg)](https://github.com/BnF-jadis/SuperMapRealigner/issues)
 
 
 <!-- PROJECT LOGO -->
