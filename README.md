@@ -63,7 +63,7 @@ _Note that it is not necessary to install OpenMMLab libraries (steps 1 and 2) if
 
 If you want to segment your own maps, after installing the relevant libraries (see previous sections), you can make use of the pretrained model. A script called `inference.py` will also help you segment full-scale maps, by tiling the map into smaller 640x640 patches, that can be ingested by the neural network, and reconstituted afterward.
   
-1. Download the pretrained model from the [following link](https://drive.google.com/file/d/1Orx984UgOPucNzcPkHc9t6B10X-pwmNp/view?usp=share_link). 
+1. Download the pretrained model from the [following link](https://drive.google.com/file/d/1efBpz33_ivZpZbUiIPvn4jn6zsgRtgYu/view?usp=share_link). 
 2. Unzip the pretrained model. Place the `inference.py` script, found under `assets/segmentation`, and the `pretrained_paris` directory, in the `mmsegmentation/demo/` folder. Copy also the `utils` directory in the same location.
 3. Place your map images in `mmsegmentation/documents/images/`. Create the directories if necessary.
 4. You can then run the segmentation inference by executing `python inference.py` from a terminal, when located in `mmsegmentation/demo/`.
