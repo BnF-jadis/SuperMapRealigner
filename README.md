@@ -1,6 +1,7 @@
 [![PyPI - Python Version](https://img.shields.io/badge/python-3.8-blue)](https://www.python.org/downloads/release/python-3813/)
 [![license](https://img.shields.io/badge/license-CC%20BY%204.0-brightgreen)](https://creativecommons.org/licenses/by/4.0/)
 [![open issues](https://isitmaintained.com/badge/open/BnF-jadis/SuperMapRealigner.svg)](https://github.com/BnF-jadis/SuperMapRealigner/issues)
+[![DOI](https://zenodo.org/badge/638211649.svg)](https://zenodo.org/badge/latestdoi/638211649)
 
 <!-- PROJECT LOGO -->
 <br />
@@ -91,4 +92,20 @@ Under the following terms:
 <a href="https://orcid.org/0000-0001-9138-6727">
 <img alt="ORCID logo" src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" width="16" height="16"/> <a href="https://people.epfl.ch/remi.petitpierre">Rémi Petitpierre</a>
  - remi.petitpierre@epfl.ch
+  
+## Citation
+  
+Rémi Petitpierre. (2023). BnF-jadis/SuperMapRealigner: v0.1-initial. Zenodo. https://doi.org/10.5281/zenodo.638211649
+```
+@software{petitpierre_bnf-jadis_2020,
+  author       = {R{\'{e}}mi Petitpierre},
+  title        = {BnF-jadis/SuperMapRealigner: v0.1-initial},
+  month        = May,
+  year         = 2023,
+  publisher    = {Zenodo},
+  version      = {v0.1},
+  doi          = {10.5281/zenodo.638211649},
+  url          = {https://doi.org/10.5281/zenodo.638211649}
+}
+```
 
