@@ -31,7 +31,7 @@ The method is composed of two steps. First, the road network is extracted from h
 
 ### Evaluation
 
-The accuracy of the realignment was evaluated on a corpus of 49 historical maps of Paris, using 245 control points annotated manually. The present algorithm allowed to realign accurately 37/49 maps (75.5 %), with a median residual error of 16.7 ± 8.1 pixels (20 meters). This performance was confirmed on a sample of 20 historical maps from various European cities (see [1] for details).
+The accuracy of the realignment was evaluated on a corpus of 49 historical maps of Paris, using 245 control points annotated manually. The present algorithm allowed to realign accurately 38/49 maps (76%), with a median residual error of 16.7 ± 8.1 pixels (20 meters). This performance was confirmed on a sample of 20 historical maps from various European cities (see [1] for details).
 
 The segmentation model is trained on the Historical City Maps Semantic Segmentation Dataset – Paris [5]. The road network segmentation performance reaches an IoU of 82.4 %. 
 
