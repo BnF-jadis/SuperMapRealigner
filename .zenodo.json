@@ -1,0 +1,25 @@
+{
+    "creators": [
+        {
+            "name": "Petitpierre, Remi",
+            "orcid": "0000-0001-9138-6727",
+            "affiliation": "EPFL",
+        }
+    ],
+    "title": "bnf-jadis/SuperMapRealigner",
+    "description": "A Generic Method for Segmented Map Realignment using Local Features and Graph Neural Network",
+    "version": "0.1",
+    "access_right": "open",
+    "keywords": [
+        "georeferencing",
+        "map registration",
+        "graph neural networks",
+        "historical cartography"
+    ],
+    "license": "CC BY 4.0",
+    "upload_type": "software",
+    "language": "eng",
+    "communities": [
+        {"identifier": "epfl"}
+    ]
+}
