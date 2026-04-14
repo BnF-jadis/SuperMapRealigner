@@ -7,13 +7,14 @@
         }
     ],
     "title": "bnf-jadis/SuperMapRealigner",
-    "description": "A Generic Method for Segmented Map Realignment using Local Features and Graph Neural Network",
-    "version": "0.1",
+    "description": "JADIS SuperMapRealigner: A Generic Method for the Automatic Alignment of Historical Maps using Graph Neural Networks",
+    "version": "0.2",
     "access_right": "open",
     "keywords": [
         "georeferencing",
         "map registration",
         "graph neural networks",
+        "keypoint matching",
         "historical cartography"
     ],
     "license": "CC BY 4.0",
