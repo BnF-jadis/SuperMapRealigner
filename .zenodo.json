@@ -3,12 +3,24 @@
         {
             "name": "Petitpierre, Remi",
             "orcid": "0000-0001-9138-6727",
-            "affiliation": "EPFL"
+            "affiliation": "Ecole Polytechnique Fédérale de Lausanne (EPFL)",
+            "type": "Researcher"
+        },
+        {
+            "name": "Jan, Maxime",
+            "affiliation": "Ecole Polytechnique Fédérale de Lausanne (EPFL)",
+            "type": "Researcher"
+        },
+        {
+            "name": "Guhennec, Paul",
+            "orcid": "0000-0002-5490-5249",
+            "affiliation": "Ecole Polytechnique Fédérale de Lausanne (EPFL)",
+            "type": "Researcher"
         }
     ],
-    "title": "bnf-jadis/SuperMapRealigner",
-    "description": "JADIS SuperMapRealigner: A Generic Method for the Automatic Alignment of Historical Maps using Graph Neural Networks",
-    "version": "0.2",
+    "title": "JADIS SuperMapRealigner: A Generic Method for the Automatic Alignment of Historical Maps",
+    "description": "JADIS SuperMapRealigner is a generic method for the automated alignment, or georeferencing, of historical map images. It was developed as part of a collaboration between the Digital Humanities Laboratory at EPFL (Swiss Federal Institute of Technology in Lausanne) and the Department of Maps and Plans at the Bibliothèque nationale de France (BnF). The method relies on automated segmentation of the road network, as well as local keypoint detection and matching using the SuperPoint detector and the SuperGlue graph neural network. The open-access GitHub repository provides Python functions and demo notebooks, as well as example data, including 49 segmented maps of Paris for testing and benchmarking.",
+    "version": "0.1.3",
     "access_right": "open",
     "keywords": [
         "georeferencing",
@@ -22,13 +34,5 @@
     "language": "eng",
     "communities": [
         {"identifier": "epfl"}
-    ],
-    "related_identifiers": [
-        {
-            "identifier": "https://github.com/zenodo/zenodo/blob/master/zenodo/modules/deposit/jsonschemas/deposits/records/legacyrecord.json",
-            "relation": "references",
-            "scheme": "url",
-            "resource_type": "software"
-        }
     ]
 }
